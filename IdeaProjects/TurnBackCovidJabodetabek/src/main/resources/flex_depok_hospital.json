@@ -1,0 +1,435 @@
+{
+  "type": "carousel",
+  "contents": [
+    {
+      "type": "bubble",
+      "size": "kilo",
+      "header": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "RSUD Kota Depok",
+            "color": "#ffffff",
+            "align": "start",
+            "size": "md",
+            "gravity": "center",
+            "wrap": true
+          }
+        ],
+        "backgroundColor": "#27ACB2",
+        "paddingTop": "19px",
+        "paddingAll": "12px",
+        "paddingBottom": "16px"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://www.jurnaldepok.id/wp-content/uploads/2019/10/BHL3-1-9.jpg",
+                "size": "full",
+                "aspectMode": "cover",
+                "action": {
+                  "type": "uri",
+                  "label": "action",
+                  "uri": "https://goo.gl/maps/izTyF2HkpdRqddoM6"
+                }
+              },
+              {
+                "type": "text",
+                "text": "Jl. Raya Muchtar No.99, Sawangan Lama, Kec. Sawangan, Kota Depok, Jawa Barat 16511",
+                "color": "#8C8C8C",
+                "size": "sm",
+                "wrap": true,
+                "action": {
+                  "type": "uri",
+                  "label": "action",
+                  "uri": "https://goo.gl/maps/izTyF2HkpdRqddoM6"
+                },
+                "margin": "md"
+              }
+            ],
+            "flex": 1
+          }
+        ],
+        "spacing": "md",
+        "paddingAll": "12px"
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "postback",
+              "label": "Kembali",
+              "data": "Kembali",
+              "text": "Kembali"
+            },
+            "height": "sm"
+          }
+        ]
+      },
+      "styles": {
+        "header": {
+          "backgroundColor": "#27ACB2"
+        },
+        "footer": {
+          "separator": true
+        }
+      }
+    },
+    {
+      "type": "bubble",
+      "size": "kilo",
+      "header": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "RS Puri Cinere",
+            "color": "#ffffff",
+            "align": "start",
+            "size": "md",
+            "gravity": "center",
+            "wrap": true
+          }
+        ],
+        "backgroundColor": "#FF6B6E",
+        "paddingTop": "19px",
+        "paddingAll": "12px",
+        "paddingBottom": "16px"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://www.garnesia.com/images/vendor/v4550.jpg",
+                "size": "full",
+                "aspectMode": "cover",
+                "action": {
+                  "type": "uri",
+                  "label": "action",
+                  "uri": "https://goo.gl/maps/zrbdjdE7djTKmWcn6"
+                }
+              },
+              {
+                "type": "text",
+                "text": "Jl. Maribaya No.1, Pangkalan Jati, Kec. Cinere, Kota Depok, Jawa Barat 16514",
+                "color": "#8C8C8C",
+                "size": "sm",
+                "wrap": true,
+                "action": {
+                  "type": "uri",
+                  "label": "action",
+                  "uri": "https://goo.gl/maps/zrbdjdE7djTKmWcn6"
+                },
+                "margin": "md"
+              }
+            ],
+            "flex": 1
+          }
+        ],
+        "spacing": "md",
+        "paddingAll": "12px"
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "postback",
+              "label": "Kembali",
+              "data": "Kembali",
+              "text": "Kembali"
+            },
+            "height": "sm"
+          }
+        ]
+      },
+      "styles": {
+        "header": {
+          "backgroundColor": "#FF6B6E"
+        },
+        "footer": {
+          "separator": true
+        }
+      }
+    },
+    {
+      "type": "bubble",
+      "size": "kilo",
+      "header": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "RS Meilia Cibubur",
+            "color": "#ffffff",
+            "align": "start",
+            "size": "md",
+            "gravity": "center",
+            "wrap": true
+          }
+        ],
+        "paddingTop": "19px",
+        "paddingAll": "12px",
+        "paddingBottom": "16px",
+        "backgroundColor": "#4b86b4"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://lh5.googleusercontent.com/p/AF1QipMd9b_zKwME3EINWfXppRRjiEI8U4qfULsj5pp_=w426-h240-k-no",
+                "size": "full",
+                "aspectMode": "cover",
+                "action": {
+                  "type": "uri",
+                  "label": "action",
+                  "uri": "https://g.page/rsmeilia?share"
+                }
+              },
+              {
+                "type": "text",
+                "text": "Jl. Alternatif Cibubur No.KM.1, Harjamukti, Kec. Cimanggis, Kota Depok, Jawa Barat 16454",
+                "color": "#8C8C8C",
+                "size": "sm",
+                "wrap": true,
+                "action": {
+                  "type": "uri",
+                  "label": "action",
+                  "uri": "https://g.page/rsmeilia?share"
+                },
+                "margin": "md"
+              }
+            ],
+            "flex": 1
+          }
+        ],
+        "spacing": "md",
+        "paddingAll": "12px"
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "postback",
+              "label": "Kembali",
+              "data": "Kembali",
+              "text": "Kembali"
+            },
+            "height": "sm"
+          }
+        ]
+      },
+      "styles": {
+        "header": {
+          "backgroundColor": "#4b86b4"
+        },
+        "footer": {
+          "separator": true
+        }
+      }
+    },
+    {
+      "type": "bubble",
+      "size": "kilo",
+      "header": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "RS Hermina",
+            "color": "#ffffff",
+            "align": "start",
+            "size": "md",
+            "gravity": "center",
+            "wrap": true
+          }
+        ],
+        "backgroundColor": "#e0cda7",
+        "paddingTop": "19px",
+        "paddingAll": "12px",
+        "paddingBottom": "16px"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://lh5.googleusercontent.com/p/AF1QipNzRzsrV0rn021ho5ETeD56iQUMmYPVOZtpz3uk=w408-h306-k-no",
+                "size": "full",
+                "aspectMode": "cover",
+                "action": {
+                  "type": "uri",
+                  "label": "action",
+                  "uri": "https://goo.gl/maps/3NRTLH83MdaUThzf6"
+                }
+              },
+              {
+                "type": "text",
+                "color": "#8C8C8C",
+                "size": "sm",
+                "wrap": true,
+                "action": {
+                  "type": "uri",
+                  "label": "action",
+                  "uri": "https://goo.gl/maps/3NRTLH83MdaUThzf6"
+                },
+                "text": "Jl. Siliwangi No.50, Pancoran MAS, Kec. Pancoran Mas, Kota Depok, Jawa Barat 16431",
+                "margin": "md"
+              }
+            ],
+            "flex": 1
+          }
+        ],
+        "spacing": "md",
+        "paddingAll": "12px"
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "postback",
+              "label": "Kembali",
+              "data": "Kembali",
+              "text": "Kembali"
+            },
+            "height": "sm"
+          }
+        ]
+      },
+      "styles": {
+        "header": {
+          "backgroundColor": "#e0cda7"
+        },
+        "footer": {
+          "separator": true
+        }
+      }
+    },
+    {
+      "type": "bubble",
+      "size": "kilo",
+      "header": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "RS Mitra Keluarga",
+            "color": "#ffffff",
+            "align": "start",
+            "size": "md",
+            "gravity": "center",
+            "wrap": true
+          }
+        ],
+        "backgroundColor": "#6b4423",
+        "paddingTop": "19px",
+        "paddingAll": "12px",
+        "paddingBottom": "16px"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://res.cloudinary.com/dk0z4ums3/image/upload/w_360,h_240,c_fill,dpr_2.0/v1529378294/hospital_image/10_34_1.jpg.jpg",
+                "size": "full",
+                "aspectMode": "cover",
+                "action": {
+                  "type": "uri",
+                  "label": "action",
+                  "uri": "https://goo.gl/maps/w71BbDBUDj8Hb2J8A"
+                }
+              },
+              {
+                "type": "text",
+                "text": "Jl. Margonda Raya, Depok, Kec. Pancoran Mas, Kota Depok, Jawa Barat 16424",
+                "color": "#8C8C8C",
+                "size": "sm",
+                "wrap": true,
+                "action": {
+                  "type": "uri",
+                  "label": "action",
+                  "uri": "https://goo.gl/maps/w71BbDBUDj8Hb2J8A"
+                },
+                "margin": "md"
+              }
+            ],
+            "flex": 1
+          }
+        ],
+        "spacing": "md",
+        "paddingAll": "12px"
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "postback",
+              "label": "Kembali",
+              "data": "Kembali",
+              "text": "Kembali"
+            },
+            "height": "sm"
+          }
+        ]
+      },
+      "styles": {
+        "header": {
+          "backgroundColor": "#6b4423"
+        },
+        "footer": {
+          "separator": true
+        }
+      }
+    }
+  ]
+}

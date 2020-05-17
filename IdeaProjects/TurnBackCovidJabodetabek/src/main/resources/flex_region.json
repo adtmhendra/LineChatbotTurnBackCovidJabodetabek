@@ -1,0 +1,744 @@
+{
+  "type": "carousel",
+  "contents": [
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://lh3.googleusercontent.com/proxy/WHlz87ErC1fe614CRsJ7k0ZY7nCt5qQ9UdLozl5GyneColHTT3xgEd_yRCEqOQa7Baz8quEKORwqE_jvjxPVynGzDh2B0dGl5z2YosRaAm7i_JstNnpCllLZD73NK6xEPlbrgMM",
+        "size": "full",
+        "aspectRatio": "20:13",
+        "aspectMode": "cover",
+        "action": {
+          "type": "uri",
+          "uri": "https://corona.jakarta.go.id/id"
+        }
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "DKI Jakarta",
+            "weight": "bold",
+            "size": "lg"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "margin": "md",
+            "spacing": "sm",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "baseline",
+                "spacing": "sm",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "Positif",
+                    "wrap": true,
+                    "color": "#666666",
+                    "size": "sm",
+                    "flex": 5
+                  },
+                  {
+                    "type": "text",
+                    "text": ": 5.795 orang",
+                    "size": "sm",
+                    "flex": 13
+                  }
+                ]
+              },
+              {
+                "type": "box",
+                "layout": "baseline",
+                "spacing": "sm",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "Meninggal",
+                    "wrap": true,
+                    "color": "#666666",
+                    "size": "sm",
+                    "flex": 5
+                  },
+                  {
+                    "type": "text",
+                    "text": ": 475 orang",
+                    "size": "sm",
+                    "flex": 13
+                  }
+                ]
+              },
+              {
+                "type": "box",
+                "layout": "baseline",
+                "spacing": "sm",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "Sembuh",
+                    "wrap": true,
+                    "color": "#666666",
+                    "size": "sm",
+                    "flex": 5
+                  },
+                  {
+                    "type": "text",
+                    "text": ": 1.292 orang",
+                    "size": "sm",
+                    "flex": 13
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "button",
+                "action": {
+                  "type": "uri",
+                  "label": "Website",
+                  "uri": "https://corona.jakarta.go.id/id"
+                },
+                "style": "secondary",
+                "color": "#FFE338"
+              },
+              {
+                "type": "button",
+                "action": {
+                  "type": "postback",
+                  "label": "RS Rujukan",
+                  "data": "Rumah sakit rujukan jakarta",
+                  "text": "Rumah sakit rujukan jakarta"
+                },
+                "style": "primary",
+                "color": "#d50000",
+                "margin": "md"
+              }
+            ],
+            "margin": "xxl"
+          }
+        ]
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "postback",
+              "label": "Kembali",
+              "data": "Kembali",
+              "text": "Kembali"
+            },
+            "height": "sm"
+          }
+        ]
+      },
+      "styles": {
+        "footer": {
+          "separator": true
+        }
+      }
+    },
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://satubanten.com/wp-content/uploads/2019/06/IMG-20190615-WA0000.jpg",
+        "size": "full",
+        "aspectRatio": "20:13",
+        "aspectMode": "cover",
+        "action": {
+          "type": "uri",
+          "uri": "http://www.covid19.kotabogor.go.id/"
+        }
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "Bogor",
+            "weight": "bold",
+            "size": "lg"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "margin": "md",
+            "spacing": "sm",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "baseline",
+                "spacing": "sm",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "Positif",
+                    "wrap": true,
+                    "color": "#666666",
+                    "size": "sm",
+                    "flex": 5
+                  },
+                  {
+                    "type": "text",
+                    "text": ": 105 orang",
+                    "size": "sm",
+                    "flex": 13
+                  }
+                ]
+              },
+              {
+                "type": "box",
+                "layout": "baseline",
+                "spacing": "sm",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "Meninggal",
+                    "wrap": true,
+                    "color": "#666666",
+                    "size": "sm",
+                    "flex": 5
+                  },
+                  {
+                    "type": "text",
+                    "text": ": 14 orang",
+                    "size": "sm",
+                    "flex": 13
+                  }
+                ]
+              },
+              {
+                "type": "box",
+                "layout": "baseline",
+                "spacing": "sm",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "Sembuh",
+                    "wrap": true,
+                    "color": "#666666",
+                    "size": "sm",
+                    "flex": 5
+                  },
+                  {
+                    "type": "text",
+                    "text": ": 29 orang",
+                    "size": "sm",
+                    "flex": 13
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "button",
+                "action": {
+                  "type": "uri",
+                  "label": "Website",
+                  "uri": "http://lhttp://www.covid19.kotabogor.go.id/inecorp.com/"
+                },
+                "style": "secondary",
+                "color": "#FFE338"
+              },
+              {
+                "type": "button",
+                "action": {
+                  "type": "postback",
+                  "label": "RS Rujukan",
+                  "data": "Rumah sakit rujukan bogor",
+                  "text": "Rumah sakit rujukan bogor"
+                },
+                "style": "primary",
+                "color": "#d50000",
+                "margin": "md"
+              }
+            ],
+            "margin": "xxl"
+          }
+        ]
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "postback",
+              "label": "Kembali",
+              "data": "Kembali",
+              "text": "Kembali"
+            },
+            "height": "sm"
+          }
+        ],
+        "flex": 0
+      },
+      "styles": {
+        "footer": {
+          "separator": true
+        }
+      }
+    },
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://4.bp.blogspot.com/-3tdWdMu1CAo/Vxc_1iK-d1I/AAAAAAAAAJ0/XeY-kWmkasM3nXwzOaWkmaBYy5l8ehUBwCLcB/s1600/Masjid%2Bkubah%2Bmas.jpg",
+        "size": "full",
+        "aspectRatio": "20:13",
+        "aspectMode": "cover",
+        "action": {
+          "type": "uri",
+          "uri": "https://ccc-19.depok.go.id/"
+        }
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "Depok",
+            "weight": "bold",
+            "size": "lg"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "margin": "md",
+            "spacing": "sm",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "baseline",
+                "spacing": "sm",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "Positif",
+                    "wrap": true,
+                    "color": "#666666",
+                    "size": "sm",
+                    "flex": 5
+                  },
+                  {
+                    "type": "text",
+                    "text": ": 398 orang",
+                    "size": "sm",
+                    "flex": 13
+                  }
+                ]
+              },
+              {
+                "type": "box",
+                "layout": "baseline",
+                "spacing": "sm",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "Meninggal",
+                    "wrap": true,
+                    "color": "#666666",
+                    "size": "sm",
+                    "flex": 5
+                  },
+                  {
+                    "type": "text",
+                    "text": ": 21 orang",
+                    "size": "sm",
+                    "flex": 13
+                  }
+                ]
+              },
+              {
+                "type": "box",
+                "layout": "baseline",
+                "spacing": "sm",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "Sembuh",
+                    "wrap": true,
+                    "color": "#666666",
+                    "size": "sm",
+                    "flex": 5
+                  },
+                  {
+                    "type": "text",
+                    "text": ": 92 orang",
+                    "size": "sm",
+                    "flex": 13
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "button",
+                "action": {
+                  "type": "uri",
+                  "label": "Website",
+                  "uri": "https://ccc-19.depok.go.id/"
+                },
+                "style": "secondary",
+                "color": "#FFE338"
+              },
+              {
+                "type": "button",
+                "action": {
+                  "type": "postback",
+                  "label": "RS Rujukan",
+                  "data": "Rumah sakit rujukan depok",
+                  "text": "Rumah sakit rujukan depok"
+                },
+                "style": "primary",
+                "color": "#d50000",
+                "margin": "md"
+              }
+            ],
+            "margin": "xxl"
+          }
+        ]
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "postback",
+              "label": "Kembali",
+              "data": "Kembali",
+              "text": "Kembali"
+            },
+            "height": "sm"
+          }
+        ],
+        "flex": 0
+      },
+      "styles": {
+        "footer": {
+          "separator": true
+        }
+      }
+    },
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQMCvEKTCtpVn_tjtW6k-9JEI6r04SgJ5WnFI2pHpS7JreXETrA&usqp=CAU",
+        "size": "full",
+        "aspectRatio": "20:13",
+        "aspectMode": "cover",
+        "action": {
+          "type": "uri",
+          "uri": "https://covid19.tangerangkota.go.id"
+        }
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "Tangerang",
+            "weight": "bold",
+            "size": "lg"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "margin": "md",
+            "spacing": "sm",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "baseline",
+                "spacing": "sm",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "Positif",
+                    "wrap": true,
+                    "color": "#666666",
+                    "size": "sm",
+                    "flex": 5
+                  },
+                  {
+                    "type": "text",
+                    "text": ": 259 orang",
+                    "size": "sm",
+                    "flex": 13
+                  }
+                ]
+              },
+              {
+                "type": "box",
+                "layout": "baseline",
+                "spacing": "sm",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "Meninggal",
+                    "wrap": true,
+                    "color": "#666666",
+                    "size": "sm",
+                    "flex": 5
+                  },
+                  {
+                    "type": "text",
+                    "text": ": 24 orang",
+                    "size": "sm",
+                    "flex": 13
+                  }
+                ]
+              },
+              {
+                "type": "box",
+                "layout": "baseline",
+                "spacing": "sm",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "Sembuh",
+                    "wrap": true,
+                    "color": "#666666",
+                    "size": "sm",
+                    "flex": 5
+                  },
+                  {
+                    "type": "text",
+                    "text": ": 106 orang",
+                    "size": "sm",
+                    "flex": 13
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "button",
+                "action": {
+                  "type": "uri",
+                  "label": "Website",
+                  "uri": "https://covid19.tangerangkota.go.id"
+                },
+                "style": "secondary",
+                "color": "#FFE338"
+              },
+              {
+                "type": "button",
+                "action": {
+                  "type": "postback",
+                  "label": "RS Rujukan",
+                  "data": "Rumah sakit rujukan tangerang",
+                  "text": "Rumah sakit rujukan tangerang"
+                },
+                "style": "primary",
+                "color": "#d50000",
+                "margin": "md"
+              }
+            ],
+            "margin": "xxl"
+          }
+        ]
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "postback",
+              "label": "Kembali",
+              "data": "Kembali",
+              "text": "Kembali"
+            },
+            "height": "sm"
+          }
+        ],
+        "flex": 0
+      },
+      "styles": {
+        "footer": {
+          "separator": true
+        }
+      }
+    },
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://3.bp.blogspot.com/-4wyRs_oc4SA/U3mmfnHdUPI/AAAAAAAAAFk/y86b93RyzHI/s1600/p1.jpg",
+        "size": "full",
+        "aspectRatio": "20:13",
+        "aspectMode": "cover",
+        "action": {
+          "type": "uri",
+          "uri": "https://corona.bekasikota.go.id/"
+        }
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "Bekasi",
+            "weight": "bold",
+            "size": "lg"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "margin": "md",
+            "spacing": "sm",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "baseline",
+                "spacing": "sm",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "Positif",
+                    "wrap": true,
+                    "color": "#666666",
+                    "size": "sm",
+                    "flex": 5
+                  },
+                  {
+                    "type": "text",
+                    "text": ": 280 orang",
+                    "size": "sm",
+                    "flex": 13
+                  }
+                ]
+              },
+              {
+                "type": "box",
+                "layout": "baseline",
+                "spacing": "sm",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "Meninggal",
+                    "wrap": true,
+                    "color": "#666666",
+                    "size": "sm",
+                    "flex": 5
+                  },
+                  {
+                    "type": "text",
+                    "text": ": 29 orang",
+                    "size": "sm",
+                    "flex": 13
+                  }
+                ]
+              },
+              {
+                "type": "box",
+                "layout": "baseline",
+                "spacing": "sm",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "Sembuh",
+                    "wrap": true,
+                    "color": "#666666",
+                    "size": "sm",
+                    "flex": 5
+                  },
+                  {
+                    "type": "text",
+                    "text": ": 193 orang",
+                    "size": "sm",
+                    "flex": 13
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "button",
+                "action": {
+                  "type": "uri",
+                  "label": "Website",
+                  "uri": "https://corona.bekasikota.go.id/"
+                },
+                "style": "secondary",
+                "color": "#FFE338"
+              },
+              {
+                "type": "button",
+                "action": {
+                  "type": "postback",
+                  "label": "RS Rujukan",
+                  "data": "Rumah sakit rujukan bekasi",
+                  "text": "Rumah sakit rujukan bekasi"
+                },
+                "style": "primary",
+                "color": "#d50000",
+                "margin": "md"
+              }
+            ],
+            "margin": "xxl"
+          }
+        ]
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "postback",
+              "label": "Kembali",
+              "data": "Kembali",
+              "text": "Kembali"
+            },
+            "height": "sm"
+          }
+        ],
+        "flex": 0
+      },
+      "styles": {
+        "footer": {
+          "separator": true
+        }
+      }
+    }
+  ]
+}

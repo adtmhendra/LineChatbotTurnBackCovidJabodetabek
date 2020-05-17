@@ -1,0 +1,577 @@
+{
+  "type": "carousel",
+  "contents": [
+    {
+      "type": "bubble",
+      "size": "mega",
+      "hero": {
+        "type": "image",
+        "url": "https://akcdn.detik.net.id/community/media/visual/2020/05/13/2838984b-5ef8-447f-b93e-4996a38f30fb.jpeg?w=700&q=90",
+        "size": "full",
+        "aspectRatio": "20:13",
+        "action": {
+          "type": "uri",
+          "uri": "https://news.detik.com/berita/d-5013585/kasus-baru-corona-13-mei-capai-689-orang-kurva-corona-menanjak-tinggi"
+        },
+        "aspectMode": "cover"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "wrap": true,
+            "weight": "bold",
+            "gravity": "center",
+            "size": "md",
+            "action": {
+              "type": "uri",
+              "label": "action",
+              "uri": "https://news.detik.com/berita/d-5013585/kasus-baru-corona-13-mei-capai-689-orang-kurva-corona-menanjak-tinggi"
+            },
+            "text": "Kasus Baru Corona 13 Mei Capai 689 Orang, Kurva Corona Menanjak Tinggi"
+          },
+          {
+            "type": "text",
+            "text": "www.detik.com",
+            "size": "sm",
+            "color": "#999999",
+            "margin": "md",
+            "action": {
+              "type": "uri",
+              "label": "action",
+              "uri": "https://news.detik.com/berita/d-5013585/kasus-baru-corona-13-mei-capai-689-orang-kurva-corona-menanjak-tinggi"
+            }
+          },
+          {
+            "type": "text",
+            "text": "Rabu, 13 Mei 2020",
+            "size": "sm",
+            "color": "#999999",
+            "flex": 0,
+            "margin": "sm",
+            "action": {
+              "type": "uri",
+              "label": "action",
+              "uri": "https://news.detik.com/berita/d-5013585/kasus-baru-corona-13-mei-capai-689-orang-kurva-corona-menanjak-tinggi"
+            }
+          }
+        ]
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "postback",
+              "label": "Kembali",
+              "data": "Kembali",
+              "text": "Kembali"
+            },
+            "height": "sm",
+            "style": "link"
+          }
+        ]
+      },
+      "styles": {
+        "footer": {
+          "separator": true
+        }
+      }
+    },
+    {
+      "type": "bubble",
+      "size": "mega",
+      "hero": {
+        "type": "image",
+        "url": "https://akcdn.detik.net.id/visual/2020/05/05/81f92195-0a76-44b5-b0f0-6e079aa478d4_169.jpeg?w=650",
+        "size": "full",
+        "aspectRatio": "20:13",
+        "action": {
+          "type": "uri",
+          "uri": "https://www.cnnindonesia.com/nasional/20200513095437-20-502782/pedagang-positif-corona-pasar-bogor-tutup-satu-lantai"
+        },
+        "aspectMode": "cover"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "Pedagang Positif Corona, Pasar Bogor Tutup Satu Lantai",
+            "wrap": true,
+            "weight": "bold",
+            "gravity": "center",
+            "size": "md",
+            "action": {
+              "type": "uri",
+              "label": "action",
+              "uri": "https://www.cnnindonesia.com/nasional/20200513095437-20-502782/pedagang-positif-corona-pasar-bogor-tutup-satu-lantai"
+            }
+          },
+          {
+            "type": "text",
+            "text": "www.cnnindonesia.com",
+            "size": "sm",
+            "color": "#999999",
+            "margin": "md",
+            "action": {
+              "type": "uri",
+              "label": "action",
+              "uri": "https://www.cnnindonesia.com/nasional/20200513095437-20-502782/pedagang-positif-corona-pasar-bogor-tutup-satu-lantai"
+            }
+          },
+          {
+            "type": "text",
+            "text": "Rabu, 13 Mei 2020",
+            "size": "sm",
+            "color": "#999999",
+            "flex": 0,
+            "margin": "sm",
+            "action": {
+              "type": "uri",
+              "label": "action",
+              "uri": "https://www.cnnindonesia.com/nasional/20200513095437-20-502782/pedagang-positif-corona-pasar-bogor-tutup-satu-lantai"
+            }
+          }
+        ]
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "postback",
+              "label": "Kembali",
+              "data": "Kembali",
+              "text": "Kembali"
+            },
+            "height": "sm",
+            "style": "link"
+          }
+        ]
+      },
+      "action": {
+        "type": "uri",
+        "label": "action",
+        "uri": "https://www.cnnindonesia.com/nasional/20200513095437-20-502782/pedagang-positif-corona-pasar-bogor-tutup-satu-lantai"
+      },
+      "styles": {
+        "footer": {
+          "separator": true
+        }
+      }
+    },
+    {
+      "type": "bubble",
+      "size": "mega",
+      "hero": {
+        "type": "image",
+        "url": "https://monitor.co.id/wp-content/uploads/2020/04/WhatsApp-Image-2020-03-29-at-9.32.46-PM-696x392.jpeg",
+        "size": "full",
+        "aspectRatio": "20:13",
+        "action": {
+          "type": "uri",
+          "uri": "https://monitor.co.id/2020/05/13/jumlah-pasien-corona-sembuh-di-depok-kembali-stagnan/"
+        },
+        "aspectMode": "cover"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "Jumlah Pasien Corona Sembuh di Depok Kembali Stagnan",
+            "wrap": true,
+            "weight": "bold",
+            "gravity": "center",
+            "size": "md",
+            "action": {
+              "type": "uri",
+              "label": "action",
+              "uri": "https://monitor.co.id/2020/05/13/jumlah-pasien-corona-sembuh-di-depok-kembali-stagnan/"
+            }
+          },
+          {
+            "type": "text",
+            "text": "www.monitor.co.id",
+            "size": "sm",
+            "color": "#999999",
+            "margin": "md",
+            "action": {
+              "type": "uri",
+              "label": "action",
+              "uri": "https://monitor.co.id/2020/05/13/jumlah-pasien-corona-sembuh-di-depok-kembali-stagnan/"
+            }
+          },
+          {
+            "type": "text",
+            "text": "Rabu, 13 Mei 2020",
+            "size": "sm",
+            "color": "#999999",
+            "flex": 0,
+            "margin": "sm",
+            "action": {
+              "type": "uri",
+              "label": "action",
+              "uri": "https://monitor.co.id/2020/05/13/jumlah-pasien-corona-sembuh-di-depok-kembali-stagnan/"
+            }
+          }
+        ]
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "postback",
+              "label": "Kembali",
+              "data": "Kembali",
+              "text": "Kembali"
+            },
+            "height": "sm",
+            "style": "link"
+          }
+        ]
+      },
+      "styles": {
+        "footer": {
+          "separator": true
+        }
+      }
+    },
+    {
+      "type": "bubble",
+      "size": "mega",
+      "hero": {
+        "type": "image",
+        "url": "https://asset.kompas.com/crops/xf1ipZWZH_-0jraeU4k9IDacOuw=/0x0:0x0/750x500/data/photo/2020/05/12/5eba59157c613.jpg",
+        "size": "full",
+        "aspectRatio": "20:13",
+        "action": {
+          "type": "uri",
+          "uri": "https://megapolitan.kompas.com/read/2020/05/13/06062431/kasus-covid-19-naik-terus-psbb-depok-diperpanjang-lagi-14-hari"
+        },
+        "aspectMode": "cover"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "Kasus Covid-19 Naik Terus, PSBB Depok Diperpanjang Lagi 14 Hari",
+            "wrap": true,
+            "weight": "bold",
+            "gravity": "center",
+            "size": "md",
+            "action": {
+              "type": "uri",
+              "label": "action",
+              "uri": "https://megapolitan.kompas.com/read/2020/05/13/06062431/kasus-covid-19-naik-terus-psbb-depok-diperpanjang-lagi-14-hari"
+            }
+          },
+          {
+            "type": "text",
+            "text": "www.kompas.com",
+            "size": "sm",
+            "color": "#999999",
+            "margin": "md",
+            "action": {
+              "type": "uri",
+              "label": "action",
+              "uri": "https://megapolitan.kompas.com/read/2020/05/13/06062431/kasus-covid-19-naik-terus-psbb-depok-diperpanjang-lagi-14-hari"
+            }
+          },
+          {
+            "type": "text",
+            "text": "Rabu, 13 Mei 2020",
+            "size": "sm",
+            "color": "#999999",
+            "flex": 0,
+            "margin": "sm",
+            "action": {
+              "type": "uri",
+              "label": "action",
+              "uri": "https://megapolitan.kompas.com/read/2020/05/13/06062431/kasus-covid-19-naik-terus-psbb-depok-diperpanjang-lagi-14-hari"
+            }
+          }
+        ]
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "postback",
+              "label": "Kembali",
+              "data": "Kembali",
+              "text": "Kembali"
+            },
+            "height": "sm",
+            "style": "link"
+          }
+        ]
+      },
+      "styles": {
+        "footer": {
+          "separator": true
+        }
+      }
+    },
+    {
+      "type": "bubble",
+      "size": "mega",
+      "hero": {
+        "type": "image",
+        "url": "https://res.cloudinary.com/dk0z4ums3/image/upload/v1589160479/attached_image/virus-corona-0-alodokter.jpg",
+        "size": "full",
+        "aspectRatio": "20:13",
+        "action": {
+          "type": "uri",
+          "uri": "https://www.alodokter.com/virus-corona"
+        },
+        "aspectMode": "cover"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "Virus Corona (COVID-19) - Gejala, penyebab dan diagnosis",
+            "wrap": true,
+            "weight": "bold",
+            "gravity": "center",
+            "size": "md",
+            "action": {
+              "type": "uri",
+              "label": "action",
+              "uri": "https://www.alodokter.com/virus-corona"
+            }
+          },
+          {
+            "type": "text",
+            "text": "www.alodokter.com",
+            "size": "sm",
+            "color": "#999999",
+            "margin": "md",
+            "action": {
+              "type": "uri",
+              "label": "action",
+              "uri": "https://www.alodokter.com/virus-corona"
+            }
+          },
+          {
+            "type": "text",
+            "text": "Senin, 11 Mei 2020",
+            "size": "sm",
+            "color": "#999999",
+            "flex": 0,
+            "margin": "sm",
+            "action": {
+              "type": "uri",
+              "label": "action",
+              "uri": "https://www.alodokter.com/virus-corona"
+            }
+          }
+        ]
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "postback",
+              "label": "Kembali",
+              "data": "Kembali",
+              "text": "Kembali"
+            },
+            "height": "sm",
+            "style": "link"
+          }
+        ]
+      },
+      "styles": {
+        "footer": {
+          "separator": true
+        }
+      }
+    },
+    {
+      "type": "bubble",
+      "size": "mega",
+      "hero": {
+        "type": "image",
+        "url": "https://cdn2.tstatic.net/ternate/foto/bank/images/tanaman-ketepeng-badak-cassia-alata.jpg",
+        "size": "full",
+        "aspectRatio": "20:13",
+        "action": {
+          "type": "uri",
+          "uri": "https://ternate.tribunnews.com/2020/05/12/lawan-covid-19-lipi-uji-daun-ketepeng-badak-dan-benalu-jadi-antivirus-corona"
+        },
+        "aspectMode": "cover"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "Lawan Covid-19, LIPI Uji Daun Ketepeng Badak dan Benalu Jadi Antivirus Corona",
+            "wrap": true,
+            "weight": "bold",
+            "gravity": "center",
+            "size": "md",
+            "action": {
+              "type": "uri",
+              "label": "action",
+              "uri": "https://ternate.tribunnews.com/2020/05/12/lawan-covid-19-lipi-uji-daun-ketepeng-badak-dan-benalu-jadi-antivirus-corona"
+            }
+          },
+          {
+            "type": "text",
+            "text": "www.tribunnews.com",
+            "size": "sm",
+            "color": "#999999",
+            "margin": "md",
+            "action": {
+              "type": "uri",
+              "label": "action",
+              "uri": "https://ternate.tribunnews.com/2020/05/12/lawan-covid-19-lipi-uji-daun-ketepeng-badak-dan-benalu-jadi-antivirus-corona"
+            }
+          },
+          {
+            "type": "text",
+            "text": "Selasa, 12 Mei 2020",
+            "size": "sm",
+            "color": "#999999",
+            "flex": 0,
+            "margin": "sm",
+            "action": {
+              "type": "uri",
+              "label": "action",
+              "uri": "https://ternate.tribunnews.com/2020/05/12/lawan-covid-19-lipi-uji-daun-ketepeng-badak-dan-benalu-jadi-antivirus-corona"
+            }
+          }
+        ]
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "postback",
+              "label": "Kembali",
+              "data": "Kembali",
+              "text": "Kembali"
+            },
+            "height": "sm",
+            "style": "link"
+          }
+        ]
+      },
+      "styles": {
+        "footer": {
+          "separator": true
+        }
+      }
+    },
+    {
+      "type": "bubble",
+      "size": "mega",
+      "hero": {
+        "type": "image",
+        "url": "https://asset.kompas.com/crops/apQkaaYn-Xt26dZY72zY7Tv-llU=/0x0:1000x667/490x326/data/photo/2020/04/27/5ea671dc8ff4b.jpg",
+        "size": "full",
+        "aspectRatio": "20:13",
+        "action": {
+          "type": "uri",
+          "uri": "https://megapolitan.kompas.com/read/2020/05/12/18094751/34-dari-104-kelurahan-di-kota-tangerang-masih-bebas-covid-19"
+        },
+        "aspectMode": "cover"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "34 dari 104 Kelurahan di Kota Tangerang Masih Bebas Covid-19",
+            "wrap": true,
+            "weight": "bold",
+            "gravity": "center",
+            "size": "md",
+            "action": {
+              "type": "uri",
+              "label": "action",
+              "uri": "https://megapolitan.kompas.com/read/2020/05/12/18094751/34-dari-104-kelurahan-di-kota-tangerang-masih-bebas-covid-19"
+            }
+          },
+          {
+            "type": "text",
+            "text": "www.kompas.com",
+            "size": "sm",
+            "color": "#999999",
+            "margin": "md",
+            "action": {
+              "type": "uri",
+              "label": "action",
+              "uri": "https://megapolitan.kompas.com/read/2020/05/12/18094751/34-dari-104-kelurahan-di-kota-tangerang-masih-bebas-covid-19"
+            }
+          },
+          {
+            "type": "text",
+            "text": "Selasa, 12 Mei 2020",
+            "size": "sm",
+            "color": "#999999",
+            "flex": 0,
+            "margin": "sm",
+            "action": {
+              "type": "uri",
+              "label": "action",
+              "uri": "https://megapolitan.kompas.com/read/2020/05/12/18094751/34-dari-104-kelurahan-di-kota-tangerang-masih-bebas-covid-19"
+            }
+          }
+        ]
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "postback",
+              "label": "Kembali",
+              "data": "Kembali",
+              "text": "Kembali"
+            },
+            "height": "sm",
+            "style": "link"
+          }
+        ]
+      },
+      "styles": {
+        "footer": {
+          "separator": true
+        }
+      }
+    }
+  ]
+}

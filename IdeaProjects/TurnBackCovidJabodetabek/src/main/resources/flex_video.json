@@ -1,0 +1,345 @@
+{
+  "type": "carousel",
+  "contents": [
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://cdn2.tstatic.net/surabaya/foto/bank/images/lirik-lagu-semua-kan-berlalu-kolaborasi-50-publik-figur-semangat-untuk-tim-medis-lawan-covid-19.jpg",
+        "size": "full",
+        "aspectMode": "cover",
+        "action": {
+          "type": "uri",
+          "uri": "http://linecorp.com/"
+        },
+        "aspectRatio": "20:13"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "spacing": "md",
+        "contents": [
+          {
+            "type": "text",
+            "text": "SEMUA KAN BERLALU - 50 FIGUR BERKARYA DARI RUMAH ( OFFICIAL MUSIC COLLABORATION )",
+            "wrap": true,
+            "weight": "bold",
+            "gravity": "center",
+            "size": "md",
+            "action": {
+              "type": "uri",
+              "label": "action",
+              "uri": "https://youtu.be/avLXt-AxZyE"
+            }
+          },
+          {
+            "type": "text",
+            "text": "Oleh : Prilly Latuconsina",
+            "size": "sm",
+            "color": "#808080"
+          }
+        ]
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "Putar Sekarang",
+              "uri": "https://youtu.be/avLXt-AxZyE"
+            },
+            "style": "primary",
+            "color": "#d50000"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "postback",
+              "label": "Kembali",
+              "data": "Kembali",
+              "text": "Kembali"
+            },
+            "height": "sm",
+            "margin": "lg"
+          }
+        ]
+      }
+    },
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://i.ytimg.com/vi/p2Ijw4euF40/maxresdefault.jpg",
+        "size": "full",
+        "aspectMode": "cover",
+        "action": {
+          "type": "uri",
+          "uri": "http://linecorp.com/"
+        },
+        "aspectRatio": "20:13"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "spacing": "md",
+        "contents": [
+          {
+            "type": "text",
+            "text": "EPIC COLLAB! Lagu DI RUMAH AJA Dalam 42 Bahasa Daerah",
+            "wrap": true,
+            "weight": "bold",
+            "gravity": "center",
+            "size": "md",
+            "action": {
+              "type": "uri",
+              "label": "action",
+              "uri": "https://youtu.be/p2Ijw4euF40"
+            }
+          },
+          {
+            "type": "text",
+            "text": "Oleh : Eka Gustiwana",
+            "size": "sm",
+            "color": "#808080"
+          }
+        ]
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "Putar Sekarang",
+              "uri": "https://youtu.be/p2Ijw4euF40"
+            },
+            "style": "primary",
+            "color": "#d50000"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "postback",
+              "label": "Kembali",
+              "data": "Kembali",
+              "text": "Kembali"
+            },
+            "height": "sm",
+            "margin": "lg"
+          }
+        ]
+      }
+    },
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://i.ytimg.com/vi/Sc6DzfOqS6k/maxresdefault.jpg",
+        "size": "full",
+        "aspectMode": "cover",
+        "action": {
+          "type": "uri",
+          "uri": "http://linecorp.com/"
+        },
+        "aspectRatio": "20:13"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "spacing": "md",
+        "contents": [
+          {
+            "type": "text",
+            "text": "#dirumahaja dari Musisi Indonesia | Catatan Najwa",
+            "wrap": true,
+            "weight": "bold",
+            "gravity": "center",
+            "size": "md",
+            "action": {
+              "type": "uri",
+              "label": "action",
+              "uri": "https://youtu.be/Sc6DzfOqS6k"
+            }
+          },
+          {
+            "type": "text",
+            "text": "Oleh : Najwa Shihab",
+            "size": "sm",
+            "color": "#808080"
+          }
+        ]
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "Putar Sekarang",
+              "uri": "https://youtu.be/Sc6DzfOqS6k"
+            },
+            "style": "primary",
+            "color": "#d50000"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "postback",
+              "label": "Kembali",
+              "data": "Kembali",
+              "text": "Kembali"
+            },
+            "height": "sm",
+            "margin": "lg"
+          }
+        ]
+      }
+    },
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://i.ytimg.com/vi/4U3RA-UJicM/maxresdefault.jpg",
+        "size": "full",
+        "aspectMode": "cover",
+        "action": {
+          "type": "uri",
+          "uri": "http://linecorp.com/"
+        },
+        "aspectRatio": "20:13"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "spacing": "md",
+        "contents": [
+          {
+            "type": "text",
+            "text": "Satu Cara (Official Video) - Indonesian All Artist",
+            "wrap": true,
+            "weight": "bold",
+            "gravity": "center",
+            "size": "md",
+            "action": {
+              "type": "uri",
+              "label": "action",
+              "uri": "https://youtu.be/4U3RA-UJicM"
+            }
+          },
+          {
+            "type": "text",
+            "text": "Oleh :  Vidi Aldiano",
+            "size": "sm",
+            "color": "#808080"
+          }
+        ]
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "Putar Sekarang",
+              "uri": "https://youtu.be/4U3RA-UJicM"
+            },
+            "style": "primary",
+            "color": "#d50000"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "postback",
+              "label": "Kembali",
+              "data": "Kembali",
+              "text": "Kembali"
+            },
+            "height": "sm",
+            "margin": "lg"
+          }
+        ]
+      }
+    },
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://i.ytimg.com/vi/K6WE5UqnQ40/maxresdefault.jpg",
+        "size": "full",
+        "aspectMode": "cover",
+        "action": {
+          "type": "uri",
+          "uri": "http://linecorp.com/"
+        },
+        "aspectRatio": "20:13"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "spacing": "md",
+        "contents": [
+          {
+            "type": "text",
+            "text": "Demi Raga Yang Lain",
+            "wrap": true,
+            "weight": "bold",
+            "gravity": "center",
+            "size": "md",
+            "action": {
+              "type": "uri",
+              "label": "action",
+              "uri": "https://youtu.be/K6WE5UqnQ40"
+            }
+          },
+          {
+            "type": "text",
+            "text": "Oleh :  Eka Gustiwana & Yessiel Trivena - Topik",
+            "size": "sm",
+            "color": "#808080",
+            "action": {
+              "type": "uri",
+              "label": "action",
+              "uri": "https://youtu.be/K6WE5UqnQ40"
+            }
+          }
+        ]
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "Putar Sekarang",
+              "uri": "https://youtu.be/K6WE5UqnQ40"
+            },
+            "style": "primary",
+            "color": "#d50000"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "postback",
+              "label": "Kembali",
+              "data": "Kembali",
+              "text": "Kembali"
+            },
+            "height": "sm",
+            "margin": "lg"
+          }
+        ]
+      }
+    }
+  ]
+}

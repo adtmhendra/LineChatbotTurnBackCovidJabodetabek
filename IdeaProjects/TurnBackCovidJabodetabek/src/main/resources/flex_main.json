@@ -1,0 +1,225 @@
+{
+  "type": "bubble",
+  "size": "mega",
+  "header": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "Total Kasus di Indonesia",
+        "color": "#ffffff",
+        "align": "center",
+        "size": "lg",
+        "weight": "bold"
+      },
+      {
+        "type": "box",
+        "layout": "baseline",
+        "contents": [
+          {
+            "type": "text",
+            "text": "Positif",
+            "color": "#FFE338",
+            "align": "start",
+            "size": "md",
+            "gravity": "center",
+            "weight": "bold",
+            "flex": 2,
+            "margin": "md"
+          },
+          {
+            "type": "text",
+            "text": ": 17.025 orang",
+            "size": "md",
+            "flex": 3,
+            "color": "#FFE338",
+            "weight": "bold"
+          }
+        ],
+        "margin": "lg"
+      },
+      {
+        "type": "box",
+        "layout": "baseline",
+        "contents": [
+          {
+            "type": "text",
+            "text": "Meninggal",
+            "color": "#d50000",
+            "align": "start",
+            "size": "md",
+            "gravity": "center",
+            "weight": "bold",
+            "margin": "md",
+            "flex": 2
+          },
+          {
+            "type": "text",
+            "text": ": 1.089 orang",
+            "size": "md",
+            "flex": 3,
+            "color": "#d50000",
+            "weight": "bold"
+          }
+        ]
+      },
+      {
+        "type": "box",
+        "layout": "baseline",
+        "contents": [
+          {
+            "type": "text",
+            "text": "Sembuh",
+            "color": "#46CB18",
+            "align": "start",
+            "size": "md",
+            "gravity": "center",
+            "weight": "bold",
+            "margin": "md",
+            "flex": 2
+          },
+          {
+            "type": "text",
+            "text": ": 3.911 orang",
+            "size": "md",
+            "flex": 3,
+            "color": "#46CB18",
+            "weight": "bold"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "text": "*Data per tanggal 16 Mei 2020",
+        "margin": "xl",
+        "color": "#ffffff",
+        "size": "xxs",
+        "style": "italic",
+        "decoration": "none"
+      }
+    ],
+    "backgroundColor": "#1E453E",
+    "spacing": "sm",
+    "paddingBottom": "16px",
+    "paddingAll": "12px"
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "Untuk membantu tenaga medis yang saat ini sedang berjuang menangani pasien Covid-19, silahkan tekan tombol \"Donasi\" dan untuk melihat kota lebih detail, silahkan tekan tombol \"Cek Kota\"",
+        "wrap": true,
+        "size": "sm",
+        "margin": "md"
+      },
+      {
+        "type": "box",
+        "layout": "baseline",
+        "contents": [
+          {
+            "type": "text",
+            "text": "#stayathome",
+            "size": "sm",
+            "color": "#d50000",
+            "weight": "bold",
+            "action": {
+              "type": "uri",
+              "label": "action",
+              "uri": "https://www.instagram.com/explore/tags/stayathome/?hl=en"
+            },
+            "align": "start",
+            "flex": 2,
+            "margin": "none"
+          },
+          {
+            "type": "text",
+            "text": "#dirumahaja",
+            "size": "sm",
+            "color": "#d50000",
+            "weight": "bold",
+            "action": {
+              "type": "uri",
+              "label": "action",
+              "uri": "https://www.instagram.com/explore/tags/dirumahaja/?hl=en"
+            },
+            "align": "start",
+            "flex": 4
+          }
+        ],
+        "margin": "xs"
+      },
+      {
+        "type": "box",
+        "layout": "horizontal",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "postback",
+              "label": "Lihat Berita",
+              "data": "Lihat berita",
+              "text": "Lihat berita"
+            },
+            "height": "md",
+            "style": "primary",
+            "color": "#1E453E"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "postback",
+              "label": "Cek Kota",
+              "data": "Cek kota",
+              "text": "Cek kota"
+            },
+            "style": "primary",
+            "color": "#d50000",
+            "height": "md",
+            "margin": "md"
+          }
+        ],
+        "margin": "xl"
+      },
+      {
+        "type": "box",
+        "layout": "horizontal",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "postback",
+              "label": "Video",
+              "data": "Video",
+              "text": "Video"
+            },
+            "height": "md",
+            "style": "primary",
+            "color": "#46CB18"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "Donasi",
+              "uri": "https://kitabisa.com/campaign/melawancoronavirus"
+            },
+            "style": "primary",
+            "color": "#ff9a00",
+            "height": "md",
+            "margin": "md"
+          }
+        ],
+        "margin": "md"
+      }
+    ],
+    "paddingAll": "7px"
+  },
+  "styles": {
+    "header": {
+      "backgroundColor": "#1E453E"
+    }
+  }
+}

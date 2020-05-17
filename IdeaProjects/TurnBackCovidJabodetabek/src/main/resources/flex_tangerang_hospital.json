@@ -1,0 +1,432 @@
+{
+  "type": "carousel",
+  "contents": [
+    {
+      "type": "bubble",
+      "size": "kilo",
+      "header": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "Ciputra Hospital Citra Raya",
+            "color": "#ffffff",
+            "align": "start",
+            "size": "md",
+            "gravity": "center",
+            "wrap": true
+          }
+        ],
+        "backgroundColor": "#27ACB2",
+        "paddingTop": "19px",
+        "paddingAll": "12px",
+        "paddingBottom": "16px"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTzBVLRc4rp_tG_CIipS2PPo4TTAg705i0y2VWNTOqx8X2AqWWe&usqp=CAU",
+                "size": "full",
+                "aspectMode": "cover",
+                "action": {
+                  "type": "uri",
+                  "label": "action",
+                  "uri": "https://goo.gl/maps/j52eZQBgi6DYUj4s5"
+                }
+              },
+              {
+                "type": "text",
+                "text": "Jl. Citra Raya Boulevard No.8, Mekar Bakti, Panongan, Tangerang, Banten 15710",
+                "color": "#8C8C8C",
+                "size": "sm",
+                "wrap": true,
+                "action": {
+                  "type": "uri",
+                  "label": "action",
+                  "uri": "https://goo.gl/maps/j52eZQBgi6DYUj4s5"
+                },
+                "margin": "md"
+              }
+            ],
+            "flex": 1
+          }
+        ],
+        "spacing": "md",
+        "paddingAll": "12px"
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "postback",
+              "label": "Kembali",
+              "data": "Kembali",
+              "text": "Kembali"
+            },
+            "height": "sm"
+          }
+        ]
+      },
+      "styles": {
+        "header": {
+          "backgroundColor": "#27ACB2"
+        },
+        "footer": {
+          "separator": true
+        }
+      }
+    },
+    {
+      "type": "bubble",
+      "size": "kilo",
+      "header": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "RS Mitra Keluarga Gading Serpong",
+            "color": "#ffffff",
+            "align": "start",
+            "size": "md",
+            "gravity": "center",
+            "wrap": true
+          }
+        ],
+        "backgroundColor": "#FF6B6E",
+        "paddingTop": "19px",
+        "paddingAll": "12px",
+        "paddingBottom": "16px"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://awsimages.detik.net.id/customthumb/2015/06/04/6/182624_mitrakeluarga.jpg?w=700&q=80",
+                "size": "full",
+                "aspectMode": "cover",
+                "action": {
+                  "type": "uri",
+                  "label": "action",
+                  "uri": "https://goo.gl/maps/eDBT9Pnj6hDrSWM3A"
+                }
+              },
+              {
+                "type": "text",
+                "text": "Jl. Raya Legok - Karawaci No.20, Medang, Kec. Pagedangan, Tangerang, Banten 15810",
+                "color": "#8C8C8C",
+                "size": "sm",
+                "wrap": true,
+                "action": {
+                  "type": "uri",
+                  "label": "action",
+                  "uri": "https://goo.gl/maps/eDBT9Pnj6hDrSWM3A"
+                },
+                "margin": "md"
+              }
+            ]
+          }
+        ],
+        "spacing": "md",
+        "paddingAll": "12px"
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "postback",
+              "label": "Kembali",
+              "data": "Kembali",
+              "text": "Kembali"
+            },
+            "height": "sm"
+          }
+        ]
+      },
+      "styles": {
+        "header": {
+          "backgroundColor": "#FF6B6E"
+        },
+        "footer": {
+          "separator": true
+        }
+      }
+    },
+    {
+      "type": "bubble",
+      "size": "kilo",
+      "header": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "Siloam Hospital Kelapa Dua",
+            "color": "#ffffff",
+            "align": "start",
+            "size": "md",
+            "gravity": "center",
+            "wrap": true
+          }
+        ],
+        "backgroundColor": "#4b86b4",
+        "paddingTop": "19px",
+        "paddingAll": "12px",
+        "paddingBottom": "16px"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://lh5.googleusercontent.com/p/AF1QipNzMD_RYlo4uCvs3oxXDgQGxoW_adJnbhu4tA-7=w408-h306-k-no",
+                "size": "full",
+                "aspectMode": "cover",
+                "action": {
+                  "type": "uri",
+                  "label": "action",
+                  "uri": "https://goo.gl/maps/5cGhj48QjfjBMUoA7"
+                }
+              },
+              {
+                "type": "text",
+                "text": "Jl. Kelapa Dua Raya No.1001, Klp. Dua, Kec. Klp. Dua, Tangerang, Banten 15810",
+                "color": "#8C8C8C",
+                "size": "sm",
+                "wrap": true,
+                "action": {
+                  "type": "uri",
+                  "label": "action",
+                  "uri": "https://goo.gl/maps/5cGhj48QjfjBMUoA7"
+                },
+                "margin": "md"
+              }
+            ],
+            "flex": 1
+          }
+        ],
+        "spacing": "md",
+        "paddingAll": "12px"
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "postback",
+              "label": "Kembali",
+              "data": "Kembali",
+              "text": "Kembali"
+            },
+            "height": "sm"
+          }
+        ]
+      },
+      "styles": {
+        "header": {
+          "backgroundColor": "#4b86b4"
+        },
+        "footer": {
+          "separator": true
+        }
+      }
+    },
+    {
+      "type": "bubble",
+      "size": "kilo",
+      "header": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "RSUD Kota Tangerang",
+            "color": "#ffffff",
+            "align": "start",
+            "size": "md",
+            "gravity": "center",
+            "wrap": true
+          }
+        ],
+        "backgroundColor": "#e0cda7",
+        "paddingTop": "19px",
+        "paddingAll": "12px",
+        "paddingBottom": "16px"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://lh5.googleusercontent.com/p/AF1QipPWECg7qDwMFvGWNOt4HLODk17xD7FPq6qkGuCV=w408-h306-k-no",
+                "size": "full",
+                "aspectMode": "cover",
+                "action": {
+                  "type": "uri",
+                  "label": "action",
+                  "uri": "https://goo.gl/maps/qxXUx2mXQpPxxHft8"
+                }
+              },
+              {
+                "type": "text",
+                "color": "#8C8C8C",
+                "size": "sm",
+                "wrap": true,
+                "action": {
+                  "type": "uri",
+                  "label": "action",
+                  "uri": "https://goo.gl/maps/qxXUx2mXQpPxxHft8"
+                },
+                "text": "Jl. Masjid Al-Hidayah, RT.005/RW.003, Klp. Indah, Kec. Tangerang, Kota Tangerang, Banten 15117",
+                "margin": "md"
+              }
+            ]
+          }
+        ],
+        "spacing": "md",
+        "paddingAll": "12px"
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "postback",
+              "label": "Kembali",
+              "data": "Kembali",
+              "text": "Kembali"
+            },
+            "height": "sm"
+          }
+        ]
+      },
+      "styles": {
+        "header": {
+          "backgroundColor": "#e0cda7"
+        },
+        "footer": {
+          "separator": true
+        }
+      }
+    },
+    {
+      "type": "bubble",
+      "size": "kilo",
+      "header": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "Siloam Hospital Lippo Village",
+            "color": "#ffffff",
+            "align": "start",
+            "size": "md",
+            "gravity": "center",
+            "wrap": true
+          }
+        ],
+        "backgroundColor": "#6b4423",
+        "paddingTop": "19px",
+        "paddingAll": "12px",
+        "paddingBottom": "16px"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://lh5.googleusercontent.com/p/AF1QipPHws3cmiblnrGeDrF6OGpWD-KJaiiP-TjD25Aj=w408-h306-k-no",
+                "size": "full",
+                "aspectMode": "cover",
+                "action": {
+                  "type": "uri",
+                  "label": "action",
+                  "uri": "https://g.page/siloamlippovillagekarawaci?share"
+                }
+              },
+              {
+                "type": "text",
+                "text": "Jl. Siloam No.6, Bencongan, Kec. Klp. Dua, Tangerang, Banten 15811",
+                "color": "#8C8C8C",
+                "size": "sm",
+                "wrap": true,
+                "action": {
+                  "type": "uri",
+                  "label": "action",
+                  "uri": "https://g.page/siloamlippovillagekarawaci?share"
+                },
+                "margin": "md"
+              }
+            ]
+          }
+        ],
+        "spacing": "md",
+        "paddingAll": "12px"
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "postback",
+              "label": "Kembali",
+              "data": "Kembali",
+              "text": "Kembali"
+            },
+            "height": "sm"
+          }
+        ]
+      },
+      "styles": {
+        "header": {
+          "backgroundColor": "#6b4423"
+        },
+        "footer": {
+          "separator": true
+        }
+      }
+    }
+  ]
+}

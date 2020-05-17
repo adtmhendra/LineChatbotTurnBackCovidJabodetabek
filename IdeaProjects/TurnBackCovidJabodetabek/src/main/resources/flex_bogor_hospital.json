@@ -1,0 +1,263 @@
+{
+  "type": "carousel",
+  "contents": [
+    {
+      "type": "bubble",
+      "size": "kilo",
+      "header": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "RSUD Kota Bogor",
+            "color": "#ffffff",
+            "align": "start",
+            "size": "md",
+            "gravity": "center",
+            "wrap": true
+          }
+        ],
+        "backgroundColor": "#27ACB2",
+        "paddingTop": "19px",
+        "paddingAll": "12px",
+        "paddingBottom": "16px"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://rsudkotabogor.org/web/wp-content/uploads/2019/09/Gerbang.jpg",
+                "size": "full",
+                "aspectMode": "cover",
+                "action": {
+                  "type": "uri",
+                  "label": "action",
+                  "uri": "https://goo.gl/maps/vMngvNUEhN9qQGWY9"
+                }
+              },
+              {
+                "type": "text",
+                "text": "Jl. DR. Sumeru No.120, RT.03/RW.20, Menteng, Kec. Bogor Barat., Kota Bogor, Jawa Barat 16112",
+                "color": "#8C8C8C",
+                "size": "sm",
+                "wrap": true,
+                "action": {
+                  "type": "uri",
+                  "label": "action",
+                  "uri": "https://goo.gl/maps/vMngvNUEhN9qQGWY9"
+                },
+                "margin": "md"
+              }
+            ],
+            "flex": 1
+          }
+        ],
+        "spacing": "md",
+        "paddingAll": "12px"
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "postback",
+              "label": "Kembali",
+              "data": "Kembali",
+              "text": "Kembali"
+            },
+            "height": "sm"
+          }
+        ]
+      },
+      "styles": {
+        "header": {
+          "backgroundColor": "#32ab9f"
+        },
+        "footer": {
+          "separator": true
+        }
+      }
+    },
+    {
+      "type": "bubble",
+      "size": "kilo",
+      "header": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "Bogor Senior Hospital",
+            "color": "#ffffff",
+            "align": "start",
+            "size": "md",
+            "gravity": "center",
+            "wrap": true
+          }
+        ],
+        "backgroundColor": "#f96161",
+        "paddingTop": "19px",
+        "paddingAll": "12px",
+        "paddingBottom": "16px"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://lh5.googleusercontent.com/p/AF1QipPN8tE7N6an_Rsx6cl09-BH-7nHver7pEsHvNQ3=w408-h276-k-no",
+                "size": "full",
+                "aspectMode": "cover",
+                "action": {
+                  "type": "uri",
+                  "label": "action",
+                  "uri": "https://goo.gl/maps/DZxKxzo85w57GizE8"
+                }
+              },
+              {
+                "type": "text",
+                "text": "Jl. Raya Tajur No.168, RT.03/RW.04, Muarasari, Kec. Bogor Selatan., Kota Bogor, Jawa Barat 16137",
+                "color": "#8C8C8C",
+                "size": "sm",
+                "wrap": true,
+                "action": {
+                  "type": "uri",
+                  "label": "action",
+                  "uri": "https://goo.gl/maps/DZxKxzo85w57GizE8"
+                },
+                "margin": "md"
+              }
+            ],
+            "flex": 1
+          }
+        ],
+        "spacing": "md",
+        "paddingAll": "12px"
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "postback",
+              "label": "Kembali",
+              "data": "Kembali",
+              "text": "Kembali"
+            },
+            "height": "sm"
+          }
+        ]
+      },
+      "styles": {
+        "header": {
+          "backgroundColor": "#f96161"
+        },
+        "footer": {
+          "separator": true
+        }
+      }
+    },
+    {
+      "type": "bubble",
+      "size": "kilo",
+      "header": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "RS Siloam Lippo Kebun Raya",
+            "color": "#ffffff",
+            "align": "start",
+            "size": "md",
+            "gravity": "center",
+            "wrap": true
+          }
+        ],
+        "backgroundColor": "#4b86b4",
+        "paddingTop": "19px",
+        "paddingAll": "12px",
+        "paddingBottom": "16px"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://www.siloamhospitals.com/-/media/Siloam/Images/Slider/Hospital-Bogor/Hospital-Bogor.jpg?h=490&la=id&w=920&hash=08EB76FBC7FEE98D9AC8F6E1068E69D3A2CD0B4F",
+                "size": "full",
+                "aspectMode": "cover",
+                "action": {
+                  "type": "uri",
+                  "label": "action",
+                  "uri": "https://goo.gl/maps/eak9xJwFwcCVd8Vm7"
+                }
+              },
+              {
+                "type": "text",
+                "text": "Jl. Malabar 2 No.17A, RT.02/RW.08, Babakan, Kecamatan Bogor Tengah, Kota Bogor, Jawa Barat 16129",
+                "color": "#8C8C8C",
+                "size": "sm",
+                "wrap": true,
+                "action": {
+                  "type": "uri",
+                  "label": "action",
+                  "uri": "https://goo.gl/maps/eak9xJwFwcCVd8Vm7"
+                },
+                "margin": "md"
+              }
+            ],
+            "flex": 1
+          }
+        ],
+        "spacing": "md",
+        "paddingAll": "12px"
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "postback",
+              "label": "Kembali",
+              "data": "Kembali",
+              "text": "Kembali"
+            },
+            "height": "sm"
+          }
+        ]
+      },
+      "styles": {
+        "header": {
+          "backgroundColor": "#4b86b4"
+        },
+        "footer": {
+          "separator": true
+        }
+      }
+    }
+  ]
+}

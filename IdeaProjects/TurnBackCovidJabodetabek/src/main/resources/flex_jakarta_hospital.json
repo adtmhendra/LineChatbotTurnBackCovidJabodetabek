@@ -1,0 +1,435 @@
+{
+  "type": "carousel",
+  "contents": [
+    {
+      "type": "bubble",
+      "size": "kilo",
+      "header": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "RSUP Fatmawati",
+            "color": "#ffffff",
+            "align": "start",
+            "size": "md",
+            "gravity": "center",
+            "wrap": true
+          }
+        ],
+        "backgroundColor": "#27ACB2",
+        "paddingTop": "19px",
+        "paddingAll": "12px",
+        "paddingBottom": "16px"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://lh5.googleusercontent.com/p/AF1QipPLCsSW5hQkiFCbNnHoAzQAEEiI3yxbhWfzUXTZ=w408-h244-k-no",
+                "size": "full",
+                "aspectMode": "cover",
+                "action": {
+                  "type": "uri",
+                  "label": "action",
+                  "uri": "https://goo.gl/maps/qpcP8Nr5KuUvufYR8"
+                }
+              },
+              {
+                "type": "text",
+                "text": "Jl. RS. Fatmawati Raya, RT.4/RW.9, Cilandak Bar., Kec. Cilandak, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12430",
+                "color": "#8C8C8C",
+                "size": "sm",
+                "wrap": true,
+                "action": {
+                  "type": "uri",
+                  "label": "action",
+                  "uri": "https://goo.gl/maps/qpcP8Nr5KuUvufYR8"
+                },
+                "margin": "md"
+              }
+            ],
+            "flex": 1
+          }
+        ],
+        "spacing": "md",
+        "paddingAll": "12px"
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "postback",
+              "label": "Kembali",
+              "data": "Kembali",
+              "text": "Kembali"
+            },
+            "height": "sm"
+          }
+        ]
+      },
+      "styles": {
+        "header": {
+          "backgroundColor": "#27ACB2"
+        },
+        "footer": {
+          "separator": true
+        }
+      }
+    },
+    {
+      "type": "bubble",
+      "size": "kilo",
+      "header": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "RSUD Pasar Minggu",
+            "color": "#ffffff",
+            "align": "start",
+            "size": "md",
+            "gravity": "center",
+            "wrap": true
+          }
+        ],
+        "backgroundColor": "#FF6B6E",
+        "paddingTop": "19px",
+        "paddingAll": "12px",
+        "paddingBottom": "16px"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://lh5.googleusercontent.com/p/AF1QipOytNqnIn4abYaiTZFr9AiYaihvbo0R69xnjSTq=w408-h306-k-no",
+                "size": "full",
+                "aspectMode": "cover",
+                "action": {
+                  "type": "uri",
+                  "label": "action",
+                  "uri": "https://goo.gl/maps/vMhvuLeh2kA2EuUU7"
+                }
+              },
+              {
+                "type": "text",
+                "text": "Jl. TB Simatupang No.1, RT.1/RW.5, Ragunan, Kec. Ps. Minggu, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12550",
+                "color": "#8C8C8C",
+                "size": "sm",
+                "wrap": true,
+                "action": {
+                  "type": "uri",
+                  "label": "action",
+                  "uri": "https://goo.gl/maps/vMhvuLeh2kA2EuUU7"
+                },
+                "margin": "md"
+              }
+            ],
+            "flex": 1
+          }
+        ],
+        "spacing": "md",
+        "paddingAll": "12px"
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "postback",
+              "label": "Kembali",
+              "data": "Kembali",
+              "text": "Kembali"
+            },
+            "height": "sm"
+          }
+        ]
+      },
+      "styles": {
+        "header": {
+          "backgroundColor": "#FF6B6E"
+        },
+        "footer": {
+          "separator": true
+        }
+      }
+    },
+    {
+      "type": "bubble",
+      "size": "kilo",
+      "header": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "RS Polri Kramat Djati",
+            "color": "#ffffff",
+            "align": "start",
+            "size": "md",
+            "gravity": "center",
+            "wrap": true
+          }
+        ],
+        "backgroundColor": "#4b86b4",
+        "paddingTop": "19px",
+        "paddingAll": "12px",
+        "paddingBottom": "16px"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://lh5.googleusercontent.com/p/AF1QipOu8IWvh2Uwtm59JoeN-j6cEkTrDG5jqEKknRsh=w408-h306-k-no",
+                "size": "full",
+                "aspectMode": "cover",
+                "action": {
+                  "type": "uri",
+                  "label": "action",
+                  "uri": "https://goo.gl/maps/7s2JsSQ3hEDJX4XL9"
+                }
+              },
+              {
+                "type": "text",
+                "text": "Jl. Raya Bogor, RT.1/RW.5, Kramat Jati, Kec. Kramat jati, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta 13510",
+                "color": "#8C8C8C",
+                "size": "sm",
+                "wrap": true,
+                "action": {
+                  "type": "uri",
+                  "label": "action",
+                  "uri": "https://goo.gl/maps/7s2JsSQ3hEDJX4XL9"
+                },
+                "margin": "md"
+              }
+            ],
+            "flex": 1
+          }
+        ],
+        "spacing": "md",
+        "paddingAll": "12px"
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "postback",
+              "label": "Kembali",
+              "data": "Kembali",
+              "text": "Kembali"
+            },
+            "height": "sm"
+          }
+        ]
+      },
+      "styles": {
+        "header": {
+          "backgroundColor": "#4b86b4"
+        },
+        "footer": {
+          "separator": true
+        }
+      }
+    },
+    {
+      "type": "bubble",
+      "size": "kilo",
+      "header": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "RSPAD Gatot Soebroto",
+            "color": "#ffffff",
+            "align": "start",
+            "size": "md",
+            "gravity": "center",
+            "wrap": true
+          }
+        ],
+        "backgroundColor": "#e0cda7",
+        "paddingTop": "19px",
+        "paddingAll": "12px",
+        "paddingBottom": "16px"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://lh5.googleusercontent.com/p/AF1QipPDjZfPfVNpjGi02TvCDVahnrqr5Ht8WXSOQfkY=w426-h240-k-no",
+                "size": "full",
+                "aspectMode": "cover",
+                "action": {
+                  "type": "uri",
+                  "label": "action",
+                  "uri": "https://goo.gl/maps/ftB75McJvTaodvAv8"
+                }
+              },
+              {
+                "type": "text",
+                "text": "Jl. Abdul Rahman Saleh Raya No.24, RT.10/RW.5, Senen, Kec. Senen, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10410",
+                "color": "#8C8C8C",
+                "size": "sm",
+                "wrap": true,
+                "action": {
+                  "type": "uri",
+                  "label": "action",
+                  "uri": "https://goo.gl/maps/ftB75McJvTaodvAv8"
+                },
+                "margin": "md"
+              }
+            ],
+            "flex": 1
+          }
+        ],
+        "spacing": "md",
+        "paddingAll": "12px"
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "postback",
+              "label": "Kembali",
+              "data": "Kembali",
+              "text": "Kembali"
+            },
+            "height": "sm"
+          }
+        ]
+      },
+      "styles": {
+        "header": {
+          "backgroundColor": "#e0cda7"
+        },
+        "footer": {
+          "separator": true
+        }
+      }
+    },
+    {
+      "type": "bubble",
+      "size": "kilo",
+      "header": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "RSPI Prof Dr Sulianti Saroso",
+            "color": "#ffffff",
+            "align": "start",
+            "size": "md",
+            "gravity": "center",
+            "wrap": true
+          }
+        ],
+        "backgroundColor": "#6b4423",
+        "paddingTop": "19px",
+        "paddingAll": "12px",
+        "paddingBottom": "16px"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://lh5.googleusercontent.com/p/AF1QipP_Qkc7gCSES8xbRwjcoSlQwpYhj4XyHPUfOc0b=w426-h240-k-no",
+                "size": "full",
+                "aspectMode": "cover",
+                "action": {
+                  "type": "uri",
+                  "label": "action",
+                  "uri": "https://goo.gl/maps/L9KX16392UPZmkfV6"
+                }
+              },
+              {
+                "type": "text",
+                "text": "Jl. Sunter Permai Raya, RT.2/RW.12, Papanggo, Tj. Priok, Kota Jkt Utara, Daerah Khusus Ibukota Jakarta 14340",
+                "color": "#8C8C8C",
+                "size": "sm",
+                "wrap": true,
+                "action": {
+                  "type": "uri",
+                  "label": "action",
+                  "uri": "https://goo.gl/maps/L9KX16392UPZmkfV6"
+                },
+                "margin": "md"
+              }
+            ],
+            "flex": 1
+          }
+        ],
+        "spacing": "md",
+        "paddingAll": "12px"
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "postback",
+              "label": "Kembali",
+              "data": "Kembali",
+              "text": "Kembali"
+            },
+            "height": "sm"
+          }
+        ]
+      },
+      "styles": {
+        "header": {
+          "backgroundColor": "#6b4423"
+        },
+        "footer": {
+          "separator": true
+        }
+      }
+    }
+  ]
+}

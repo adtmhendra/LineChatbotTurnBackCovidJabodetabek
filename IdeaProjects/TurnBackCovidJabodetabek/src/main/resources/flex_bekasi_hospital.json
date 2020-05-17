@@ -1,0 +1,440 @@
+{
+  "type": "carousel",
+  "contents": [
+    {
+      "type": "bubble",
+      "size": "kilo",
+      "header": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "RSUD Kota Bekasi",
+            "color": "#ffffff",
+            "align": "start",
+            "size": "md",
+            "gravity": "center",
+            "wrap": true
+          }
+        ],
+        "backgroundColor": "#27ACB2",
+        "paddingTop": "19px",
+        "paddingAll": "12px",
+        "paddingBottom": "16px"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://cdn2.tstatic.net/jakarta/foto/bank/images/rsud-kota-bekasi.jpg",
+                "size": "full",
+                "aspectMode": "cover",
+                "action": {
+                  "type": "uri",
+                  "label": "action",
+                  "uri": "https://goo.gl/maps/qdihZuHVtB1Zk7x26"
+                }
+              },
+              {
+                "type": "text",
+                "text": "Jl. Pramuka No.55, RT.006/RW.006, Marga Jaya, Kec. Bekasi Sel., Kota Bks, Jawa Barat 17141",
+                "color": "#8C8C8C",
+                "size": "sm",
+                "wrap": true,
+                "action": {
+                  "type": "uri",
+                  "label": "action",
+                  "uri": "https://goo.gl/maps/qdihZuHVtB1Zk7x26"
+                },
+                "margin": "md"
+              }
+            ],
+            "flex": 1
+          }
+        ],
+        "spacing": "md",
+        "paddingAll": "12px"
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "postback",
+              "label": "Kembali",
+              "data": "Kembali",
+              "text": "Kembali"
+            },
+            "style": "link",
+            "height": "sm"
+          }
+        ]
+      },
+      "styles": {
+        "header": {
+          "backgroundColor": "#27ACB2"
+        },
+        "footer": {
+          "separator": true
+        }
+      }
+    },
+    {
+      "type": "bubble",
+      "size": "kilo",
+      "header": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "RS Hermina Grand Wisata",
+            "color": "#ffffff",
+            "align": "start",
+            "size": "md",
+            "gravity": "center",
+            "wrap": true
+          }
+        ],
+        "backgroundColor": "#FF6B6E",
+        "paddingTop": "19px",
+        "paddingAll": "12px",
+        "paddingBottom": "16px"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://static.konsula.com/images/practice/0001001000/0001000443/rumah-sakit-hermina-grand-wisata.300x225.jpg",
+                "size": "full",
+                "aspectMode": "cover",
+                "action": {
+                  "type": "uri",
+                  "label": "action",
+                  "uri": "https://goo.gl/maps/ztRrMDdL9Gj55UWa7"
+                }
+              },
+              {
+                "type": "text",
+                "text": "Lambangsari, Tambun Selatan, Bekasi, West Java 17510",
+                "color": "#8C8C8C",
+                "size": "sm",
+                "wrap": true,
+                "action": {
+                  "type": "uri",
+                  "label": "action",
+                  "uri": "https://goo.gl/maps/ztRrMDdL9Gj55UWa7"
+                },
+                "margin": "md"
+              }
+            ],
+            "flex": 1
+          }
+        ],
+        "spacing": "md",
+        "paddingAll": "12px"
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "postback",
+              "label": "Kembali",
+              "data": "Kembali",
+              "text": "Kembali"
+            },
+            "style": "link",
+            "height": "sm"
+          }
+        ]
+      },
+      "styles": {
+        "header": {
+          "backgroundColor": "#FF6B6E"
+        },
+        "footer": {
+          "separator": true
+        }
+      }
+    },
+    {
+      "type": "bubble",
+      "size": "kilo",
+      "header": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "RS Sentra Medika",
+            "color": "#ffffff",
+            "align": "start",
+            "size": "md",
+            "gravity": "center",
+            "wrap": true
+          }
+        ],
+        "backgroundColor": "#4b86b4",
+        "paddingTop": "19px",
+        "paddingAll": "12px",
+        "paddingBottom": "16px"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://lh5.googleusercontent.com/p/AF1QipN6CicK3vzsJjdRf2KfkmFu0NHhORIT-DFS7dgD=w408-h306-k-no",
+                "size": "full",
+                "aspectMode": "cover",
+                "action": {
+                  "type": "uri",
+                  "label": "action",
+                  "uri": "https://goo.gl/maps/QHgDWmSjCz2vScEm9"
+                }
+              },
+              {
+                "type": "text",
+                "text": "Jl. Industri Pasir Gombong, Cikarang, Kec. Cikarang Utara, Bekasi, Jawa Barat 17530",
+                "color": "#8C8C8C",
+                "size": "sm",
+                "wrap": true,
+                "action": {
+                  "type": "uri",
+                  "label": "action",
+                  "uri": "https://goo.gl/maps/QHgDWmSjCz2vScEm9"
+                },
+                "margin": "md"
+              }
+            ],
+            "flex": 1
+          }
+        ],
+        "spacing": "md",
+        "paddingAll": "12px"
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "postback",
+              "label": "Kembali",
+              "data": "Kembali",
+              "text": "Kembali"
+            },
+            "style": "link",
+            "height": "sm"
+          }
+        ]
+      },
+      "styles": {
+        "header": {
+          "backgroundColor": "#4b86b4"
+        },
+        "footer": {
+          "separator": true
+        }
+      }
+    },
+    {
+      "type": "bubble",
+      "size": "kilo",
+      "header": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "RS Siloam Cikarang",
+            "color": "#ffffff",
+            "align": "start",
+            "size": "md",
+            "gravity": "center",
+            "wrap": true
+          }
+        ],
+        "backgroundColor": "#e0cda7",
+        "paddingTop": "19px",
+        "paddingAll": "12px",
+        "paddingBottom": "16px"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://lh5.googleusercontent.com/p/AF1QipNhVTKBxeqfUm-Og0MxSn5A-pj5TXfsB4QiDInQ=w408-h306-k-no",
+                "size": "full",
+                "aspectMode": "cover",
+                "action": {
+                  "type": "uri",
+                  "label": "action",
+                  "uri": "https://g.page/siloam-lippo-cikarang?share"
+                }
+              },
+              {
+                "type": "text",
+                "color": "#8C8C8C",
+                "size": "sm",
+                "wrap": true,
+                "action": {
+                  "type": "uri",
+                  "label": "action",
+                  "uri": "https://g.page/siloam-lippo-cikarang?share"
+                },
+                "text": "Jl. MH. Thamrin No.Kav. 105, Cibatu, Cikarang Sel., Bekasi, Jawa Barat 17530",
+                "margin": "md"
+              }
+            ],
+            "flex": 1
+          }
+        ],
+        "spacing": "md",
+        "paddingAll": "12px"
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "postback",
+              "label": "Kembali",
+              "data": "Kembali",
+              "text": "Kembali"
+            },
+            "style": "link",
+            "height": "sm"
+          }
+        ]
+      },
+      "styles": {
+        "header": {
+          "backgroundColor": "#e0cda7"
+        },
+        "footer": {
+          "separator": true
+        }
+      }
+    },
+    {
+      "type": "bubble",
+      "size": "kilo",
+      "header": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "RS Mitra Keluarga Cikarang Utara",
+            "color": "#ffffff",
+            "align": "start",
+            "size": "md",
+            "gravity": "center",
+            "wrap": true
+          }
+        ],
+        "backgroundColor": "#6b4423",
+        "paddingTop": "19px",
+        "paddingAll": "12px",
+        "paddingBottom": "16px"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://mitrakeluarga.s3.ap-southeast-1.amazonaws.com/images/clinic_gallery/full/11_43_2.jpg",
+                "size": "full",
+                "aspectMode": "cover",
+                "action": {
+                  "type": "uri",
+                  "label": "action",
+                  "uri": "https://goo.gl/maps/kBJqbgEw7BXSyDWC6"
+                }
+              },
+              {
+                "type": "text",
+                "text": "RS MITRA KELUARGA CIKARANG, Jl. Raya Industri No.100, Mekarmukti, Kec. Cikarang Utara, Bekasi, Jawa Barat 17550",
+                "color": "#8C8C8C",
+                "size": "sm",
+                "wrap": true,
+                "action": {
+                  "type": "uri",
+                  "label": "action",
+                  "uri": "https://goo.gl/maps/kBJqbgEw7BXSyDWC6"
+                },
+                "margin": "md"
+              }
+            ],
+            "flex": 1
+          }
+        ],
+        "spacing": "md",
+        "paddingAll": "12px"
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "postback",
+              "label": "Kembali",
+              "data": "Kembali",
+              "text": "Kembali"
+            },
+            "style": "link",
+            "height": "sm"
+          }
+        ]
+      },
+      "styles": {
+        "header": {
+          "backgroundColor": "#6b4423"
+        },
+        "footer": {
+          "separator": true
+        }
+      }
+    }
+  ]
+}
