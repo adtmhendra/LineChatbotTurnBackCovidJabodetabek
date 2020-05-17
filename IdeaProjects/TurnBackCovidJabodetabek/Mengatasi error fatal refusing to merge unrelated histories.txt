@@ -1,4 +1,0 @@
-Cara mengatasi error git "* branch master -> FETCH_HEAD fatal: refusing to merge unrelated histories"
-1. Menuju folder ".git"
-2. Di bagian "config" hapus url & fetch yg memiliki url "github"
-3. Masuk ke bagian "FETCH_HEAD" & "HEAD" lalu hapus semua isi di dalam file tersebut sampai kosong
